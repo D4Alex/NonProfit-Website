@@ -10,4 +10,19 @@
   .textcenter {
       text-align: center;
   }
-  
+  #textcenter {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+  #connect {
+      text-align: center;
+      color: blue;
+  }
+  #contact {
+      text-align: center;
+  }
+  #icon {
+      height: 50px;
+      width: 50px;
+  }
