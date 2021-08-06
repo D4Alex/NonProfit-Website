@@ -1,19 +1,27 @@
 #logo {
     height: 100px;
+    margin-right: 100%;
 }
-.center {
+/* .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+  } */
+  .center {
+      margin-bottom: 5%;
   }
-  .textcenter {
+ 
+  /* .textcenter {
       text-align: center;
+  } */
+  .textcenter {
+      margin-left: 13%;
   }
   #textcenter {
     text-align: center;
-    margin-left: 25%;
-    margin-right: 25%;
+    /* margin-right: 25%; */
+    margin-bottom: 5%;
 }
   #connect {
       text-align: center;
